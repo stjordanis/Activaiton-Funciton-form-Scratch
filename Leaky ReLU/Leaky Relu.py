@@ -11,7 +11,7 @@ for i in xaxis:
 	yaxis.append(f)
 	
 
-plt.title("Behaviour of ReLU function")
+plt.title("Behaviour of leaky ReLU function")
 plt.plot(xaxis,yaxis)
 plt.grid()
 plt.show()
