@@ -1,5 +1,5 @@
 # Activaiton-Funciton-form-Scratch
-![alt text](https://github.com/Sagarsharma4244/Activaiton-Funciton-form-Scratch/blob/master/Activation%20Function.gif "Logo Title Text 1")
+![alt text](https://github.com/Sagarsharma4244/Activaiton-Funciton-form-Scratch/blob/master/Activation%20Function.gif "Activation Function @sagarsharma4244")
 ## What is Activation Function?
 It is a curve (sigmoid, tanH, ReLU) which is used to map the values of the network between bounded values. This is done for every node in the network. For example, sigmoid can map any range of values between 0 and 1.
 
